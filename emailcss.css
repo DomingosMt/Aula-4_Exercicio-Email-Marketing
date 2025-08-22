@@ -39,12 +39,11 @@ li {
     padding: 10px;
     list-style: none;
     border-radius: 20px;
-    gap: 20px;
+    gap: 50px;
 }
 
-.fotosimoveis {
-    display: inline-flex;
-    gap: 20px;
+.imovel {
+    display: inline-block;
     margin-top: 50px;
 }
 
